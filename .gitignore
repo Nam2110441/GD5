@@ -1,0 +1,75 @@
+# Byte-compiled files
+
+__pycache__/
+
+*.py[cod]
+
+*$py.class
+
+
+
+# Distribution / packaging
+
+build/
+
+dist/
+
+*.egg-info/
+
+*.egg
+
+*.whl
+
+
+
+# Test results
+
+*.log
+
+*.coverage
+
+.coverage.*
+
+.cache
+
+pytest_cache/
+
+.tox/
+
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+
+# MyPy, Pyright, or other type checker files
+
+.mypy_cache/
+
+.pyre/
+
+.pytype/
+
+
+# IDE-specific files
+
+.vscode/
+
+.idea/
+
+*.sublime-project
+
+*.sublime-workspace
+
+
+# MacOS specific files
+
+.DS_Store
+
+
+# Docker-specific
+
+*.pid
+
+# Folder
+demo
